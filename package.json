@@ -1,0 +1,13 @@
+{
+  "name": "alpha-delta",
+  "version": "1.0.0",
+  "description": "ADHD & FAERS Data Analysis Platform",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Static site - no build required'",
+    "dev": "echo 'Static site - no dev server required'"
+  },
+  "keywords": ["data-analysis", "adhd", "faers", "pharmacology"],
+  "author": "rosesareblack",
+  "license": "MIT"
+}
