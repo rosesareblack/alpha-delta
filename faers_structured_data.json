@@ -1,0 +1,90 @@
+[
+  {
+    "drug_name":"ACETAMINOPHEN (G)",
+    "total_reports":106183,
+    "total_deaths":1027,
+    "total_life_threatening":1021,
+    "total_hospitalized":17544,
+    "active_ingredient":"Acetaminophen",
+    "death_rate":0.967,
+    "serious_outcomes":19592,
+    "serious_rate":18.45
+  },
+  {
+    "drug_name":"IBUPROFEN (G)",
+    "total_reports":63027,
+    "total_deaths":386,
+    "total_life_threatening":232,
+    "total_hospitalized":8945,
+    "active_ingredient":"Ibuprofen",
+    "death_rate":0.612,
+    "serious_outcomes":9563,
+    "serious_rate":15.17
+  },
+  {
+    "drug_name":"ADVIL (P)",
+    "total_reports":30283,
+    "total_deaths":188,
+    "total_life_threatening":92,
+    "total_hospitalized":4380,
+    "active_ingredient":"Ibuprofen",
+    "death_rate":0.621,
+    "serious_outcomes":4660,
+    "serious_rate":15.39
+  },
+  {
+    "drug_name":"TOPAMAX (P)",
+    "total_reports":26732,
+    "total_deaths":188,
+    "total_life_threatening":126,
+    "total_hospitalized":3968,
+    "active_ingredient":"Topiramate",
+    "death_rate":0.703,
+    "serious_outcomes":4282,
+    "serious_rate":16.02
+  },
+  {
+    "drug_name":"VYVANSE (P)",
+    "total_reports":20950,
+    "total_deaths":44,
+    "total_life_threatening":172,
+    "total_hospitalized":3211,
+    "active_ingredient":"Lisdexamfetamine",
+    "death_rate":0.21,
+    "serious_outcomes":3427,
+    "serious_rate":16.36
+  },
+  {
+    "drug_name":"CONCERTA (P)",
+    "total_reports":7605,
+    "total_deaths":61,
+    "total_life_threatening":31,
+    "total_hospitalized":1503,
+    "active_ingredient":"Methylphenidate",
+    "death_rate":0.802,
+    "serious_outcomes":1595,
+    "serious_rate":20.97
+  },
+  {
+    "drug_name":"STRATTERA (P)",
+    "total_reports":6478,
+    "total_deaths":94,
+    "total_life_threatening":30,
+    "total_hospitalized":1570,
+    "active_ingredient":"Atomoxetine",
+    "death_rate":1.451,
+    "serious_outcomes":1694,
+    "serious_rate":26.15
+  },
+  {
+    "drug_name":"RITALIN (P)",
+    "total_reports":2735,
+    "total_deaths":23,
+    "total_life_threatening":9,
+    "total_hospitalized":573,
+    "active_ingredient":"Methylphenidate",
+    "death_rate":0.841,
+    "serious_outcomes":605,
+    "serious_rate":22.12
+  }
+]

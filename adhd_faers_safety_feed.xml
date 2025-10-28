@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>ADHD Medications: FAERS Safety Updates</title>
+    <link>https://adhd-clearinghouse.com/adhd-faers-updates</link>
+    <description>Focused FAERS adverse event monitoring for ADHD medications: Vyvanse, Concerta, Strattera, Ritalin</description>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Oct 2025 16:55:33 GMT</lastBuildDate>
+    <item>
+      <title>ADHD Safety Alert: VYVANSE (P) FAERS Profile</title>
+      <description>
+        &lt;![CDATA[
+        &lt;h3&gt;ADHD Medication Safety Profile: VYVANSE (P)&lt;/h3&gt;
+        &lt;table border=&quot;1&quot; style=&quot;border-collapse: collapse;&quot;&gt;
+        &lt;tr&gt;&lt;th&gt;Metric&lt;/th&gt;&lt;th&gt;Value&lt;/th&gt;&lt;th&gt;Context&lt;/th&gt;&lt;/tr&gt;
+        &lt;tr&gt;&lt;td&gt;Total Reports&lt;/td&gt;&lt;td&gt;20,950&lt;/td&gt;&lt;td&gt;Lifetime FAERS reports&lt;/td&gt;&lt;/tr&gt;
+        &lt;tr&gt;&lt;td&gt;Deaths&lt;/td&gt;&lt;td&gt;44&lt;/td&gt;&lt;td&gt;0.21% of reports&lt;/td&gt;&lt;/tr&gt;
+        &lt;tr&gt;&lt;td&gt;Serious Outcomes&lt;/td&gt;&lt;td&gt;3,427&lt;/td&gt;&lt;td&gt;16.36% of reports&lt;/td&gt;&lt;/tr&gt;
+        &lt;tr&gt;&lt;td&gt;Active Ingredient&lt;/td&gt;&lt;td&gt;Lisdexamfetamine&lt;/td&gt;&lt;td&gt;Pharmacological class&lt;/td&gt;&lt;/tr&gt;
+        &lt;/table&gt;
+        &lt;p&gt;&lt;strong&gt;Clinical Context:&lt;/strong&gt; This data should be interpreted alongside prescribing volume, patient population, and reporting patterns.&lt;/p&gt;
+        ]]&gt;
+        </description>
+      <link>https://adhd-clearinghouse.com/medications/lisdexamfetamine</link>
+      <guid>adhd-faers-vyvanse-p-20251028</guid>
+      <pubDate>Tue, 28 Oct 2025 16:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>ADHD Safety Alert: CONCERTA (P) FAERS Profile</title>
+      <description>
+        &lt;![CDATA[
+        &lt;h3&gt;ADHD Medication Safety Profile: CONCERTA (P)&lt;/h3&gt;
+        &lt;table border=&quot;1&quot; style=&quot;border-collapse: collapse;&quot;&gt;
+        &lt;tr&gt;&lt;th&gt;Metric&lt;/th&gt;&lt;th&gt;Value&lt;/th&gt;&lt;th&gt;Context&lt;/th&gt;&lt;/tr&gt;
+        &lt;tr&gt;&lt;td&gt;Total Reports&lt;/td&gt;&lt;td&gt;7,605&lt;/td&gt;&lt;td&gt;Lifetime FAERS reports&lt;/td&gt;&lt;/tr&gt;
+        &lt;tr&gt;&lt;td&gt;Deaths&lt;/td&gt;&lt;td&gt;61&lt;/td&gt;&lt;td&gt;0.802% of reports&lt;/td&gt;&lt;/tr&gt;
+        &lt;tr&gt;&lt;td&gt;Serious Outcomes&lt;/td&gt;&lt;td&gt;1,595&lt;/td&gt;&lt;td&gt;20.97% of reports&lt;/td&gt;&lt;/tr&gt;
+        &lt;tr&gt;&lt;td&gt;Active Ingredient&lt;/td&gt;&lt;td&gt;Methylphenidate&lt;/td&gt;&lt;td&gt;Pharmacological class&lt;/td&gt;&lt;/tr&gt;
+        &lt;/table&gt;
+        &lt;p&gt;&lt;strong&gt;Clinical Context:&lt;/strong&gt; This data should be interpreted alongside prescribing volume, patient population, and reporting patterns.&lt;/p&gt;
+        ]]&gt;
+        </description>
+      <link>https://adhd-clearinghouse.com/medications/methylphenidate</link>
+      <guid>adhd-faers-concerta-p-20251028</guid>
+      <pubDate>Tue, 28 Oct 2025 16:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>ADHD Safety Alert: STRATTERA (P) FAERS Profile</title>
+      <description>
+        &lt;![CDATA[
+        &lt;h3&gt;ADHD Medication Safety Profile: STRATTERA (P)&lt;/h3&gt;
+        &lt;table border=&quot;1&quot; style=&quot;border-collapse: collapse;&quot;&gt;
+        &lt;tr&gt;&lt;th&gt;Metric&lt;/th&gt;&lt;th&gt;Value&lt;/th&gt;&lt;th&gt;Context&lt;/th&gt;&lt;/tr&gt;
+        &lt;tr&gt;&lt;td&gt;Total Reports&lt;/td&gt;&lt;td&gt;6,478&lt;/td&gt;&lt;td&gt;Lifetime FAERS reports&lt;/td&gt;&lt;/tr&gt;
+        &lt;tr&gt;&lt;td&gt;Deaths&lt;/td&gt;&lt;td&gt;94&lt;/td&gt;&lt;td&gt;1.451% of reports&lt;/td&gt;&lt;/tr&gt;
+        &lt;tr&gt;&lt;td&gt;Serious Outcomes&lt;/td&gt;&lt;td&gt;1,694&lt;/td&gt;&lt;td&gt;26.15% of reports&lt;/td&gt;&lt;/tr&gt;
+        &lt;tr&gt;&lt;td&gt;Active Ingredient&lt;/td&gt;&lt;td&gt;Atomoxetine&lt;/td&gt;&lt;td&gt;Pharmacological class&lt;/td&gt;&lt;/tr&gt;
+        &lt;/table&gt;
+        &lt;p&gt;&lt;strong&gt;Clinical Context:&lt;/strong&gt; This data should be interpreted alongside prescribing volume, patient population, and reporting patterns.&lt;/p&gt;
+        ]]&gt;
+        </description>
+      <link>https://adhd-clearinghouse.com/medications/atomoxetine</link>
+      <guid>adhd-faers-strattera-p-20251028</guid>
+      <pubDate>Tue, 28 Oct 2025 16:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>ADHD Safety Alert: RITALIN (P) FAERS Profile</title>
+      <description>
+        &lt;![CDATA[
+        &lt;h3&gt;ADHD Medication Safety Profile: RITALIN (P)&lt;/h3&gt;
+        &lt;table border=&quot;1&quot; style=&quot;border-collapse: collapse;&quot;&gt;
+        &lt;tr&gt;&lt;th&gt;Metric&lt;/th&gt;&lt;th&gt;Value&lt;/th&gt;&lt;th&gt;Context&lt;/th&gt;&lt;/tr&gt;
+        &lt;tr&gt;&lt;td&gt;Total Reports&lt;/td&gt;&lt;td&gt;2,735&lt;/td&gt;&lt;td&gt;Lifetime FAERS reports&lt;/td&gt;&lt;/tr&gt;
+        &lt;tr&gt;&lt;td&gt;Deaths&lt;/td&gt;&lt;td&gt;23&lt;/td&gt;&lt;td&gt;0.841% of reports&lt;/td&gt;&lt;/tr&gt;
+        &lt;tr&gt;&lt;td&gt;Serious Outcomes&lt;/td&gt;&lt;td&gt;605&lt;/td&gt;&lt;td&gt;22.12% of reports&lt;/td&gt;&lt;/tr&gt;
+        &lt;tr&gt;&lt;td&gt;Active Ingredient&lt;/td&gt;&lt;td&gt;Methylphenidate&lt;/td&gt;&lt;td&gt;Pharmacological class&lt;/td&gt;&lt;/tr&gt;
+        &lt;/table&gt;
+        &lt;p&gt;&lt;strong&gt;Clinical Context:&lt;/strong&gt; This data should be interpreted alongside prescribing volume, patient population, and reporting patterns.&lt;/p&gt;
+        ]]&gt;
+        </description>
+      <link>https://adhd-clearinghouse.com/medications/methylphenidate</link>
+      <guid>adhd-faers-ritalin-p-20251028</guid>
+      <pubDate>Tue, 28 Oct 2025 16:55:33 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

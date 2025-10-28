@@ -1,0 +1,9 @@
+drug_name,total_reports,total_deaths,total_life_threatening,total_hospitalized,active_ingredient,death_rate,serious_outcomes,serious_rate
+ACETAMINOPHEN (G),106183,1027,1021,17544,Acetaminophen,0.967,19592,18.45
+IBUPROFEN (G),63027,386,232,8945,Ibuprofen,0.612,9563,15.17
+ADVIL (P),30283,188,92,4380,Ibuprofen,0.621,4660,15.39
+TOPAMAX (P),26732,188,126,3968,Topiramate,0.703,4282,16.02
+VYVANSE (P),20950,44,172,3211,Lisdexamfetamine,0.21,3427,16.36
+CONCERTA (P),7605,61,31,1503,Methylphenidate,0.802,1595,20.97
+STRATTERA (P),6478,94,30,1570,Atomoxetine,1.451,1694,26.15
+RITALIN (P),2735,23,9,573,Methylphenidate,0.841,605,22.12
