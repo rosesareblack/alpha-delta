@@ -1,0 +1,112 @@
+{
+  "documentId": "case-study-202008-130488",
+  "title": "External Appeal Case Study: 202008-130488",
+  "slug": "external-appeal-case-202008-130488",
+  "excerpt": "New York DFS external appeal decision for ADHD coverage - case 202008-130488",
+  "content": [
+    {
+      "__component": "shared.paragraph",
+      "content": "This case represents an external appeal decision rendered by the New York Department of Financial Services (DFS) regarding coverage for ADHD treatment. The decision establishes important precedent for evidence-based medication coverage when supported by comprehensive clinical documentation and appropriate treatment protocols."
+    },
+    {
+      "__component": "shared.heading",
+      "content": "Case Overview",
+      "level": 2
+    },
+    {
+      "__component": "shared.paragraph",
+      "content": "Case Number: 202008-130488\n\nDecision Summary: External appeal granted for ADHD medication coverage based on documented medical necessity and appropriate treatment protocols"
+    },
+    {
+      "__component": "shared.heading",
+      "content": "Medical Evidence Presented",
+      "level": 2
+    },
+    {
+      "__component": "shared.paragraph",
+      "content": "Medications Attempted: Stimulant medication (Lisdexamfetamine/Vyvanse) with documented trial history\n\nCondition Treated: ADHD - Attention Deficit Hyperactivity Disorder"
+    },
+    {
+      "__component": "shared.heading",
+      "content": "Reviewer Decision Rationale",
+      "level": 2
+    },
+    {
+      "__component": "shared.paragraph",
+      "content": "The reviewer determined that the requested ADHD medication was medically necessary based on comprehensive clinical documentation including diagnostic evaluation, functional impairment assessment, and appropriate treatment history. The evidence supported the medical necessity of the medication choice and dosing regimen, demonstrating adherence to established clinical guidelines and regulatory requirements."
+    },
+    {
+      "__component": "shared.heading",
+      "content": "Clinical Significance",
+      "level": 2
+    },
+    {
+      "__component": "shared.paragraph",
+      "content": "This appeal decision establishes precedent for the medical necessity of evidence-based ADHD treatment approaches when supported by comprehensive clinical documentation and appropriate therapeutic protocols. The decision demonstrates the regulatory commitment to evidence-based coverage determinations that prioritize patient care and clinical outcomes."
+    },
+    {
+      "__component": "shared.heading",
+      "content": "Legal Implications",
+      "level": 2
+    },
+    {
+      "__component": "shared.paragraph",
+      "content": "The external appeal process provides patients and healthcare providers with recourse when initial coverage denials conflict with established medical standards. These decisions create binding precedent for similar cases and demonstrate regulatory oversight of insurance coverage practices, ensuring that coverage determinations are based on medical necessity rather than arbitrary limitations."
+    },
+    {
+      "__component": "shared.heading",
+      "content": "Documentation Standards",
+      "level": 2
+    },
+    {
+      "__component": "shared.paragraph",
+      "content": "This case demonstrates the critical importance of comprehensive clinical documentation in successful external appeals. The evidence included detailed diagnostic evaluation, functional impairment assessment, treatment trial documentation, and clear medical rationale for medication selection based on individual patient needs and clinical response patterns."
+    },
+    {
+      "__component": "shared.heading",
+      "content": "Healthcare Provider Guidance",
+      "level": 2
+    },
+    {
+      "__component": "shared.paragraph",
+      "content": "Healthcare providers should reference this case when developing comprehensive documentation for ADHD treatment coverage requests. The decision reinforces the importance of evidence-based treatment protocols, systematic monitoring, and detailed clinical rationale supporting medical necessity determinations for ADHD medications."
+    }
+  ],
+  "publishedAt": "2025-10-28T16:41:38.000Z",
+  "createdAt": "2025-10-28T16:41:38.000Z",
+  "updatedAt": "2025-10-28T16:41:38.000Z",
+  "seo": {
+    "metaTitle": "Case Study 202008-130488 - External Appeal Decision | ADHD Clearinghouse",
+    "metaDescription": "New York DFS external appeal case study for ADHD coverage - case 202008-130488",
+    "keywords": ["external appeal", "NY DFS", "case study", "adhd", "insurance coverage"]
+  },
+  "categories": [
+    {
+      "documentId": "category-legal-precedents",
+      "name": "Legal Precedents",
+      "slug": "legal-precedents"
+    }
+  ],
+  "tags": [
+    {
+      "documentId": "tag-external-appeals",
+      "name": "External Appeals",
+      "slug": "external-appeals"
+    },
+    {
+      "documentId": "tag-ny-dfs",
+      "name": "NY DFS",
+      "slug": "ny-dfs"
+    },
+    {
+      "documentId": "tag-case-studies",
+      "name": "Case Studies",
+      "slug": "case-studies"
+    },
+    {
+      "documentId": "tag-insurance-coverage",
+      "name": "Insurance Coverage",
+      "slug": "insurance-coverage"
+    }
+  ]
+}

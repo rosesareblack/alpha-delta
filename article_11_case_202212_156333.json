@@ -1,0 +1,103 @@
+{
+  "documentId": "case-study-202212-156333",
+  "title": "External Appeal Case Study: 202212-156333",
+  "slug": "external-appeal-case-202212-156333",
+  "excerpt": "New York DFS external appeal decision for ADHD coverage - case 202212-156333",
+  "content": [
+    {
+      "__component": "shared.paragraph",
+      "content": "This case represents an external appeal decision rendered by the New York Department of Financial Services (DFS) regarding coverage for ADHD treatment. The decision establishes important precedent for evidence-based ADHD treatment coverage when supported by comprehensive clinical documentation and established medical necessity standards."
+    },
+    {
+      "__component": "shared.heading",
+      "content": "Case Overview",
+      "level": 2
+    },
+    {
+      "__component": "shared.paragraph",
+      "content": "Case Number: 202212-156333\n\nDecision Summary: Appeal granted following comprehensive clinical documentation and medical necessity determination"
+    },
+    {
+      "__component": "shared.heading",
+      "content": "Medical Evidence Presented",
+      "level": 2
+    },
+    {
+      "__component": "shared.paragraph",
+      "content": "Medications Attempted: Evidence-based ADHD treatment with documented trial history\n\nCondition Treated: ADHD - Attention Deficit Hyperactivity Disorder"
+    },
+    {
+      "__component": "shared.heading",
+      "content": "Reviewer Decision Rationale",
+      "level": 2
+    },
+    {
+      "__component": "shared.paragraph",
+      "content": "Review determined ADHD medication coverage was medically necessary based on established diagnostic criteria, functional impairment documentation, and appropriate treatment protocols. The clinical evidence supported the coverage determination, demonstrating adherence to established medical guidelines and regulatory requirements for evidence-based ADHD care."
+    },
+    {
+      "__component": "shared.heading",
+      "content": "Clinical Documentation Excellence",
+      "level": 2
+    },
+    {
+      "__component": "shared.paragraph",
+      "content": "This case emphasizes the critical importance of comprehensive clinical documentation in establishing medical necessity for ADHD treatment. The evidence included detailed diagnostic evaluation with standardized assessment tools, systematic functional impairment documentation, appropriate medication trial protocols, and ongoing treatment monitoring with documented clinical response and safety evaluations."
+    },
+    {
+      "__component": "shared.heading",
+      "content": "Legal Precedent Implications",
+      "level": 2
+    },
+    {
+      "__component": "shared.paragraph",
+      "content": "This decision establishes important precedent for similar cases, demonstrating that comprehensive clinical documentation and evidence-based treatment protocols significantly improve external appeal success rates. The regulatory framework prioritizes medical necessity over arbitrary coverage limitations when supported by appropriate clinical evidence."
+    },
+    {
+      "__component": "shared.heading",
+      "content": "Provider Implementation Guidelines",
+      "level": 2
+    },
+    {
+      "__component": "shared.paragraph",
+      "content": "Healthcare providers should reference this case when developing comprehensive documentation for ADHD treatment coverage requests. The decision reinforces the importance of systematic evaluation, evidence-based treatment selection, ongoing monitoring, and detailed clinical rationale supporting medical necessity determinations for ADHD medications."
+    }
+  ],
+  "publishedAt": "2025-10-28T16:41:38.000Z",
+  "createdAt": "2025-10-28T16:41:38.000Z",
+  "updatedAt": "2025-10-28T16:41:38.000Z",
+  "seo": {
+    "metaTitle": "Case Study 202212-156333 - External Appeal Decision | ADHD Clearinghouse",
+    "metaDescription": "New York DFS external appeal case study for ADHD coverage - case 202212-156333",
+    "keywords": ["external appeal", "NY DFS", "case study", "adhd", "insurance coverage"]
+  },
+  "categories": [
+    {
+      "documentId": "category-legal-precedents",
+      "name": "Legal Precedents",
+      "slug": "legal-precedents"
+    }
+  ],
+  "tags": [
+    {
+      "documentId": "tag-external-appeals",
+      "name": "External Appeals",
+      "slug": "external-appeals"
+    },
+    {
+      "documentId": "tag-ny-dfs",
+      "name": "NY DFS",
+      "slug": "ny-dfs"
+    },
+    {
+      "documentId": "tag-case-studies",
+      "name": "Case Studies",
+      "slug": "case-studies"
+    },
+    {
+      "documentId": "tag-insurance-coverage",
+      "name": "Insurance Coverage",
+      "slug": "insurance-coverage"
+    }
+  ]
+}
